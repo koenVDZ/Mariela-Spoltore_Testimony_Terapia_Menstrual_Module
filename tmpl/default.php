@@ -68,7 +68,7 @@ $lang->load('mod_mstestimonmenst', JPATH_SITE);
       />
       <div class="test-hor__text-wrapper2">
         <p>
-          <b><?php echo Text::_('MOD_MSTESTIMONMENST_MENSTRUAL_2'); ?></b><?php echo Text::_('MOD_MSTESTIMONMENST_LA_SANACION_2B'); ?> 
+          <?php echo Text::_('MOD_MSTESTIMONMENST_MENSTRUAL_2'); ?> 
         </p>
         <div class="test-hor__byhand byhand">
         Jessica Graziano
